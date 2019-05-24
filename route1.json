@@ -1,0 +1,276 @@
+{"geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiQLc94QtO4gRw3uBP72NlWY",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVZfgV8IqO4gRNjOiVjzpLvs",
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 42.3188851,
+               "lng" : -82.936179
+            },
+            "southwest" : {
+               "lat" : 42.2959551,
+               "lng" : -83.0755501
+            }
+         },
+         "copyrights" : "Map data ©2018 Google",
+         "fare" : {
+            "currency" : "CAD",
+            "text" : "CA$3.00",
+            "value" : 3
+         },
+         "legs" : [
+            {
+               "arrival_time" : {
+                  "text" : "10:28pm",
+                  "time_zone" : "America/Toronto",
+                  "value" : 1543030125
+               },
+               "departure_time" : {
+                  "text" : "9:34pm",
+                  "time_zone" : "America/Toronto",
+                  "value" : 1543026884
+               },
+               "distance" : {
+                  "text" : "17.1 km",
+                  "value" : 17067
+               },
+               "duration" : {
+                  "text" : "54 mins",
+                  "value" : 3241
+               },
+               "end_address" : "Tecumseh Mall Rear Entrance, Windsor, ON N8T 1E9, Canada",
+               "end_location" : {
+                  "lat" : 42.3159437,
+                  "lng" : -82.9369145
+               },
+               "start_address" : "College Ave. at Community Centre, College Ave, Windsor, ON N9C, Canada",
+               "start_location" : {
+                  "lat" : 42.2959551,
+                  "lng" : -83.0707431
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 263
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 196
+                     },
+                     "end_location" : {
+                        "lat" : 42.2972427,
+                        "lng" : -83.0685309
+                     },
+                     "html_instructions" : "Walk to Felix at College",
+                     "polyline" : {
+                        "points" : "w|caGbw_zNsAmDoBqH{@d@"
+                     },
+                     "start_location" : {
+                        "lat" : 42.2959551,
+                        "lng" : -83.0707431
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "0.2 km",
+                              "value" : 226
+                           },
+                           "duration" : {
+                              "text" : "3 mins",
+                              "value" : 165
+                           },
+                           "end_location" : {
+                              "lat" : 42.2969385,
+                              "lng" : -83.06834069999999
+                           },
+                           "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e on \u003cb\u003eCollege Ave\u003c/b\u003e toward \u003cb\u003eBrock St\u003c/b\u003e",
+                           "polyline" : {
+                              "points" : "w|caGbw_zNsAmDoBqH"
+                           },
+                           "start_location" : {
+                              "lat" : 42.2959551,
+                              "lng" : -83.0707431
+                           },
+                           "travel_mode" : "WALKING"
+                        },
+                        {
+                           "distance" : {
+                              "text" : "37 m",
+                              "value" : 37
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 31
+                           },
+                           "end_location" : {
+                              "lat" : 42.2972427,
+                              "lng" : -83.0685309
+                           },
+                           "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFelix Ave\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "maneuver" : "turn-left",
+                           "polyline" : {
+                              "points" : "{bdaGbh_zN{@d@"
+                           },
+                           "start_location" : {
+                              "lat" : 42.2969385,
+                              "lng" : -83.06834069999999
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "16.7 km",
+                        "value" : 16746
+                     },
+                     "duration" : {
+                        "text" : "50 mins",
+                        "value" : 3000
+                     },
+                     "end_location" : {
+                        "lat" : 42.315997,
+                        "lng" : -82.936179
+                     },
+                     "html_instructions" : "Bus towards Transway1C",
+                     "polyline" : {
+                        "points" : "{ddaG`i_zN]^_LlGk@JYTQDOAIMKGKFIJIXGb@oApFOZGh@wEvRQ`@C`@eKiFw@SyAC]I?VeBYuDwBVMWLq@a@MISY{@cBeBaH{AgCPK_@c@yBeJ?g@Wa@eC}KBe@S[cC_LAi@S]eBgI?o@]q@cDiOIeAUa@iBcIAs@]w@gBaIE{@Wc@yAuGAy@UWeAwEy@_ECw@_@k@yCgNAu@Y_@qAmG?a@Sc@{AsJAs@QYuAeI_@NSAEb@gAj@pApIEd@_ARe@?GFMG[_ByCqRfD}A`@ONW`GaD~A{@PIPUvF_Df@Mh@[n@U|@e@\\Gb@o@zAiA|EqCtAWdB_BbJgFvBi@XYnF{Cf@OXW~JwFb@GX_@pC}AXCb@s@tHaEhAU\\m@jEcCd@@b@w@hEaCtBcAh@Af@k@fIyEYcCOuAH_A[i@kAaKPu@k@kA}BmTBcAQm@mC}TImACy@Ma@cAcK@g@Qc@cAuIB[Sq@aA{IBg@Sm@aAmI?u@Sq@cAgJ?s@Sw@IeAyAkMCq@Os@sA{LEgAQu@Gu@GkAkA}JGm@?AQg@uDs\\EkA?AOa@{@_I?k@Qe@mAiL?g@?AQk@qBeRCo@O{@iAuJEkAOg@_AyICq@Oi@}@cI?o@Uw@u@_HA}@Qm@iAwJ_@oDAaAOi@s@}G?e@Oo@cAyJAk@Ok@aBgOBi@Q_@KiAw@eHfAm@TIHa@b@i@~BoA`@EvAeAbARj@KxGoDp@QJQdAq@wB_JGu@OOoEaRCe@O]O{AYcAeAoEi@kCCe@OUcCwLCc@Wo@oAkGy@eAgA?qDbBiEhCi@X_AVONOD}@qI@k@Oa@sAyJk@{D{@mHyAx@yBjA_A\\i@P_ARKiAAo@AoBqAXW@UKMUm@qFAg@Am@"
+                     },
+                     "start_location" : {
+                        "lat" : 42.29725699999999,
+                        "lng" : -83.068489
+                     },
+                     "transit_details" : {
+                        "arrival_stop" : {
+                           "location" : {
+                              "lat" : 42.315997,
+                              "lng" : -82.936179
+                           },
+                           "name" : "Tecumseh Mall Rear Entrance"
+                        },
+                        "arrival_time" : {
+                           "text" : "10:28pm",
+                           "time_zone" : "America/Toronto",
+                           "value" : 1543030080
+                        },
+                        "departure_stop" : {
+                           "location" : {
+                              "lat" : 42.29725699999999,
+                              "lng" : -83.068489
+                           },
+                           "name" : "Felix at College"
+                        },
+                        "departure_time" : {
+                           "text" : "9:38pm",
+                           "time_zone" : "America/Toronto",
+                           "value" : 1543027080
+                        },
+                        "headsign" : "Transway1C",
+                        "line" : {
+                           "agencies" : [
+                              {
+                                 "name" : "Transit Windsor",
+                                 "url" : "http://www.citywindsor.ca/residents/transitwindsor/Pages/Transit-Windsor.aspx"
+                              }
+                           ],
+                           "color" : "#804000",
+                           "name" : "Transway 1C",
+                           "short_name" : "1C",
+                           "text_color" : "#ffffff",
+                           "vehicle" : {
+                              "icon" : "//maps.gstatic.com/mapfiles/transit/iw2/6/bus2.png",
+                              "name" : "Bus",
+                              "type" : "BUS"
+                           }
+                        },
+                        "num_stops" : 66
+                     },
+                     "travel_mode" : "TRANSIT"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "58 m",
+                        "value" : 58
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 42.3159437,
+                        "lng" : -82.9369145
+                     },
+                     "html_instructions" : "Walk to Tecumseh Mall Rear Entrance, Windsor, ON N8T 1E9, Canada",
+                     "polyline" : {
+                        "points" : "ozgaGnneyNNhAJz@"
+                     },
+                     "start_location" : {
+                        "lat" : 42.3160764,
+                        "lng" : -82.93623660000002
+                     },
+                     "steps" : [
+                        {
+                           "distance" : {
+                              "text" : "58 m",
+                              "value" : 58
+                           },
+                           "duration" : {
+                              "text" : "1 min",
+                              "value" : 44
+                           },
+                           "end_location" : {
+                              "lat" : 42.3159437,
+                              "lng" : -82.9369145
+                           },
+                           "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                           "polyline" : {
+                              "points" : "ozgaGnneyNNhAJz@"
+                           },
+                           "start_location" : {
+                              "lat" : 42.3160764,
+                              "lng" : -82.93623660000002
+                           },
+                           "travel_mode" : "WALKING"
+                        }
+                     ],
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "w|caGbw_zNsAmDoBqH{@d@CG]^_LlGk@JYTQDOAUUURQ|@oApFOZGh@wEvRQ`@C`@eKiFw@SyAC]I?VeBYuDwBVMWLq@a@MISY{@cBeBaH{AgCPK_@c@yBeJ?g@Wa@eC}KBe@S[cC_LAi@S]eBgI?o@]q@cDiOIeAUa@iBcIAs@]w@gBaIE{@Wc@yAuGAy@UWeAwEy@_ECw@_@k@yCgNAu@Y_@qAmG?a@Sc@{AsJAs@QYuAeI_@NSAEb@gAj@pApIEd@_ARe@?GFMG[_ByCqRfD}A`@ONW`J}EPIPUvF_Df@Mh@[n@U|@e@\\Gb@o@zAiA|EqCtAWdB_BbJgFvBi@XYnF{Cf@OXW~JwFb@GX_@pC}AXCb@s@tHaEhAU\\m@jEcCd@@b@w@hEaCtBcAh@Af@k@fIyEYcCOuAH_A[i@kAaKPu@k@kA}BmTBcAQm@mC}TImACy@Ma@cAcK@g@Qc@cAuIB[Sq@aA{IBg@Sm@aAmI?u@Sq@cAgJ?s@Sw@IeAyAkMCq@Os@sA{LEgAQu@Gu@GkAkA}JGo@Qg@uDs\\EmAOa@{@_I?k@Qe@mAiL?i@Qk@qBeRCo@O{@iAuJEkAOg@_AyICq@Oi@}@cI?o@Uw@u@_HA}@Qm@iAwJ_@oDAaAOi@s@}G?e@Oo@cAyJAk@Ok@aBgOBi@Q_@KiAw@eHfAm@TIHa@b@i@~BoA`@EvAeAbARj@KxGoDp@QJQdAq@wB_JGu@OOoEaRCe@O]O{AYcAeAoEi@kCCe@OUcCwLCc@Wo@oAkGy@eAgA?qDbBsFbD_AVONOD}@qI@k@Oa@sAyJk@{D{@mHsEdCiBn@_ARKiAC_DqAXW@UKMUm@qFAg@Am@OJZdC"
+         },
+         "summary" : "",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

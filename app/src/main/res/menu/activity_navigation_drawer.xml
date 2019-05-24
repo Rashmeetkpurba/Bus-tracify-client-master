@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/news_feed"
+            android:icon="@drawable/ic_lnews"
+            android:title="@string/news_feed" />
+        <item
+            android:id="@+id/bus_list"
+            android:icon="@drawable/ic_bus_list"
+            android:title="@string/bus_list" />
+        <item
+            android:id="@+id/nearby"
+            android:icon="@drawable/ic_near_me"
+            android:title="@string/nearby" />
+    </group>
+</menu>
